@@ -1,10 +1,8 @@
-# flutter_firebase
-Nama : Mustika Putri Winarni
-NIM : 201710060
-Kelas : MI-2F
+# Hasil Praktikum Jibsheet 8 - flutter_firebase
 
-Hasil Praktikum Jobsheet 8 
-
+- Nama : Mustika Putri Winarni
+- NIM : 201710060
+- Kelas : MI-2F
 ## Halaman Log in
 ![log in email](https://user-images.githubusercontent.com/89899666/169103224-a842e4c6-656b-48fc-8597-80bb779446f1.jpeg)
 
